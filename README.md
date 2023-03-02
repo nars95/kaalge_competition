@@ -1,2 +1,2 @@
 # kaalge_competition
-Solver some chalenges from Kaalge
+Solving some chalenges from Kaalge
